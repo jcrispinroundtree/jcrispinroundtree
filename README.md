@@ -1,3 +1,2 @@
-🔆 Currently learning ruby through participating in AdventOfCode  
-🌱 Looking to start a career as a Computer Science Graduate  
+🌱 Junior Data Analyst
 🌐 Send me an email at jcrispinroundtree@gmail.com  
